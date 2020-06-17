@@ -1,0 +1,8 @@
+C:\Users\nikse\Desktop\lr2-master\Tinker_quest\bin\Debug\Tinker_quest.exe.config
+C:\Users\nikse\Desktop\lr2-master\Tinker_quest\bin\Debug\Tinker_quest.exe
+C:\Users\nikse\Desktop\lr2-master\Tinker_quest\bin\Debug\Tinker_quest.pdb
+C:\Users\nikse\Desktop\lr2-master\Tinker_quest\obj\Debug\Nik_block.Form1.resources
+C:\Users\nikse\Desktop\lr2-master\Tinker_quest\obj\Debug\Tinker_quest.Properties.Resources.resources
+C:\Users\nikse\Desktop\lr2-master\Tinker_quest\obj\Debug\Nik_block.csproj.GenerateResource.cache
+C:\Users\nikse\Desktop\lr2-master\Tinker_quest\obj\Debug\Tinker_quest.exe
+C:\Users\nikse\Desktop\lr2-master\Tinker_quest\obj\Debug\Tinker_quest.pdb
